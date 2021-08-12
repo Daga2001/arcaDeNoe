@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="setTransparency"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="setTransparency"/>
+			<item value="drawImage"/>
+			<item value="getClass()"/>
+			<item value="timerF"/>
+			<item value="timerStart"/>
+			<item value="constraints"/>
+			<item value="int"/>
+			<item value="a"/>
+			<item value="img"/>
+			<item value="image"/>
+			<item value="matrixEffect"/>
+			<item value="random"/>
+			<item value="Arca"/>
+			<item value="twoequals"/>
+			<item value="textfiel"/>
+		</list>
+		<list key="replacehistory">
+			<item value="moves"/>
+			<item value="stopEverySoundEffectExcept"/>
+			<item value="backgroundMusic"/>
+			<item value="khaki"/>
+			<item value="peru"/>
+			<item value="saddleBrown"/>
+			<item value="goldenBrown"/>
+			<item value="oldGold"/>
+			<item value="goldenYellow"/>
+			<item value="eraseEveryCard"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="168"/>
+		<item key="DIALOG_Y_ORIGIN" value="173"/>
+		<item key="DIALOG_WIDTH" value="284"/>
+		<item key="DIALOG_HEIGHT" value="402"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
